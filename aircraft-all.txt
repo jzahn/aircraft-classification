@@ -1,0 +1,157 @@
+A-10C Thunderbolt II
+AC-130J Ghostrider
+AC-130W Stinger II
+B-1B Lancer
+B-2A Spirit
+B-52H Stratofortress
+C-5M Super Galaxy
+C-12 Huron
+C-17A Globemaster III
+C-21A Learjet 35
+C-32 Air Force Two
+C-37 Gulfstream V
+C-40
+C-130H Hercules
+C-130J Super Hercules
+# C-145A Skytruck PZL Mielec
+C-146A Wolfhound
+CN-235 CASA
+CV-22B Osprey
+E-3 Sentry (AWACS)
+E-4B (NAOC)	Boeing
+E-8C Joint STARS
+E-9A Widget
+E-11A (BACN)
+EC-130H Compass Call
+EC-130J Commando Solo III
+F-15 Eagle
+F-15E Strike Eagle
+F-15EX Eagle II
+F-16 Fighting Falcon
+F-22A Raptor
+F-35A Lightning Iroquois
+HC-130J Combat King II
+HH-60 Pave Hawk
+KC-10A Extender
+KC-46A Pegasus
+KC-135 Stratotanker
+LC-130H Hercules
+MC-12W Liberty
+MC-130H Combat Talon II
+MQ-9A Reaper
+NC-135W
+OC-135B Open Skies
+RC-135S Cobra Ball
+RC-135 Combat Sent Rivet Joint
+RQ-4B Global Hawk
+RQ-20 Puma
+RQ-170 Sentinel
+T-1A Jayhawk
+T-6A Texan II
+T-38 Talon
+T-41D Mescalero
+T-51A Cessna
+T-53A Kadet II
+TC-135W
+TE-8A Joint STARS
+TH-1H Iroquois
+TU-2S Dragon Lady
+U-2S Dragon Lady
+U-28A Draco	Pilatus	Switzerland	Propeller
+UH-1N Twin Huey	Bell
+UV-18B Twin Otter
+VC-25A Air Force One
+WC-130J Hercules
+WC-135 Constant Phoenix
+Mikoyan MiG-29
+Mikoyan MiG-31
+Mikoyan MiG-35
+Sukhoi Su-27
+Sukhoi Su-30
+Sukhoi Su-34
+Sukhoi Su-35
+Sukhoi Su-57
+Sukhoi Su-24
+Sukhoi Su-25
+Antonov An-12
+Antonov An-22
+Antonov An-26
+Antonov An-72
+Antonov An-124
+Antonov An-140
+Antonov An-148
+Ilyushin Il-18
+Ilyushin Il-62
+Ilyushin Il-76
+Tupolev Tu-134
+Tupolev Tu-154
+Let L-410 Turbolet
+Diamond DA42
+Aero L-39 Albatros
+Yakovlev Yak-130
+Tupolev Tu-22M
+Tupolev Tu-95
+Tupolev Tu-160
+Antonov An-30
+Beriev A-50
+Ilyushin Il-20
+Ilyushin Il-78
+Ilyushin Il-80
+Tupolev Tu-214
+Kronshtadt Orion
+Sokol Altius
+Kamov Ka-27
+Kamov Ka-52
+Kamov Ka-226
+Kazan Ansat
+Mil Mi-2
+Mil Mi-8
+Mil Mi-24
+Mil Mi-26
+Mil Mi-28
+Mil Mi-38
+S350 Eurocopter
+Xian H-6
+Xian JH-7
+Chengdu J-7
+Shenyang J-8
+Chengdu J-10
+Shenyang J-11
+Shenyang J-16
+Chengdu J-20
+Sukhoi Su-27
+Sukhoi Su-30
+Sukhoi Su-35
+Shaanxi Y-8
+Shaanxi Y-9
+Ilyushin Il-76
+Xian Y-20
+Ilyushin Il-78
+Xian Y-7
+Shaanxi Y-8
+Shaanxi Y-9	
+Xian Y-20
+Xian MA60
+Ilyushin Il-76
+Tupolev Tu-154
+Shaanxi Y-8
+Shaanxi Y-9
+Antonov An-30
+Tupolev Tu-154
+Challenger 850
+Changhe Z-8
+Harbin Z-9
+Mil Mi-8
+Shenyang J-6
+Chengdu J-7
+Hongdu JL-8
+Guizhou JL-9
+Hongdu JL-10
+Xian Y-7
+Guimbal Cabri G2
+Guizhou Sunshine
+Chengdu Pterodactyl I
+Chengdu Pterodactyl 2
+Harbin Giant Eagle
+Chengdu Cloud Shadow
+Guizhou Soar Dragon

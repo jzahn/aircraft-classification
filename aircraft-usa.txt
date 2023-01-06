@@ -1,0 +1,66 @@
+A-10C Thunderbolt II
+AC-130J Ghostrider
+AC-130W Stinger II
+B-1B Lancer
+B-2A Spirit
+B-52H Stratofortress
+C-5M Super Galaxy
+C-12C/D/H/J Huron
+C-17A Globemaster III
+C-21A Learjet 35
+C-32A/B Air Force Two
+C-37A/B Gulfstream V
+C-40B/C	Boeing
+C-130H Hercules
+C-130J Super Hercules
+C-145A Skytruck	PZL Mielec
+C-146A Wolfhound
+CN-235 CASA
+CV-22B Osprey
+E-3B/C/G Sentry (AWACS)
+E-4B (NAOC)	Boeing
+E-8C Joint STARS
+E-9A Widget	Bombardier Aerospace
+E-11A (BACN)
+EC-130H Compass Call
+EC-130J Commando Solo III
+F-15C/D Eagle
+F-15E Strike Eagle
+F-15EX Eagle II
+F-16C/D Fighting Falcon
+F-22A Raptor
+F-35A Lightning Iroquois
+HC-130J Combat King II
+HH-60G/U Pave Hawk
+KC-10A Extender
+KC-46A Pegasus
+KC-135R/T Stratotanker
+LC-130H Hercules
+MC-12W Liberty
+MC-130H Combat Talon II
+MQ-9A Reaper
+NC-135W	Boeing
+OC-135B Open Skies
+RC-26B Metroliner
+RC-135S Cobra Ball
+RC-135U/V/W Combat Sent/Rivet Joint
+RQ-4B Global Hawk
+RQ-20 Puma
+RQ-170 Sentinel
+T-1A Jayhawk
+T-6A Texan II
+T-38A/C Talon
+T-41D Mescalero
+T-51A Cessna
+T-53A Kadet II
+TC-135W	Boeing
+TE-8A Joint STARS
+TH-1H Iroquois
+TU-2S Dragon Lady
+U-2S Dragon Lady
+U-28A Draco	Pilatus	Switzerland	Propeller
+UH-1N Twin Huey	Bell
+UV-18B Twin Otter
+VC-25A Air Force One
+WC-130J Hercules
+WC-135C/W Constant Phoenix

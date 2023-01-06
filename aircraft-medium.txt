@@ -1,0 +1,64 @@
+A-10 Thunderbolt
+AC-130 Ghostrider
+B-1 Lancer
+B-2 Spirit
+B-52 Stratofortress
+C-5 Galaxy
+C-17 Globemaster
+C-130 Hercules
+E-2 Hawkeye
+E-3 Sentry
+F-15 Eagle
+F-16 Falcon
+F-18 Hornet
+F-22 Raptor
+F-35 Lightning
+F-117 Nighthawk
+KC-10 Extender
+KC-46 Pegasus
+KC-135 Stratotanker
+
+Antonov An-124
+Beriev A-50
+Beriev A-100
+Ilyushin Il-76
+Ilyushin Il-78
+Ilyushin Il-80
+Mig-21 Fishbed
+Mig-25 Foxbat
+Mig-29 Fulcrum
+Mig-31 Foxhound
+Mig 35 Fulcrum-F
+Su-24 Fencer
+Su-25 Frogfoot
+Su-27 Flanker 
+Su-30 Flanker-C/G/H
+Su-33 Flanker-D
+Su-34 Fullback
+Su-35 Flanker-E
+Su-57 Felon
+Tupolev Tu-22
+Tupolev Tu-95
+Tupolev TU-160
+Tupolev PAK DA
+
+Chengdu J-7
+Shenyang J-8
+Chengdu J-10
+Shenyang J-11
+Shenyang J-16
+Chengdu J-20
+Shaanxi Y-9
+Shaanxi Y-9
+Xian Y-20
+Xian H-6
+Xian H-20
+Xian JH-7
+
+Dassault Mirage III
+SEPECAT Jaguar
+Panavia Tornado
+Dassault Mirage 2000
+Dassault Rafale
+Saab JAS 39 Gripen
+Eurofighter Typhoon
